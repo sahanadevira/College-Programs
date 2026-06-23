@@ -10,28 +10,31 @@ This repository contains my programming work, laboratory exercises, and academic
 ### Semester 1 – C Programming
 This section includes fundamental C programming programs and problem-solving exercises, such as:
 
-- Basic Arithmetic Operations
-- Fibonacci Series
-- Palindrome Checker
-- String Reversal
-- Sorting Programs
-- Inventory Management System
-- Simple Calculator
-- Number Pattern Programs
-- Loop and Conditional Statement Programs
-- Array and String Manipulation Programs
-- Function-Based Programs
-- File Handling Programs
+- Programs using simple statements
+- Programs using decision making statements
+- Programs using looping statements
+- Programs using user defined functions and recursive functions
+- Programs using one dimensional and two dimensional arrays
+- Solving problems using string handling functions
+- Programs using pointers and dynamic memory allocation
+- Programs using structures and unions 
+- Programs using pointers to structures and other data types
+- Programs using text files
+- Programs using binary files
+
 
 ### Semester 2 – Python Programming
 This section includes Python programming exercises such as:
-
-- Basic Python Programs
-- Arithmetic and Mathematical Operations
-- Loop-Based Programs
-- Conditional Statement Programs
-- String Manipulation
-- List, Tuple, Dictionary, and Set Operations
+- Simple python programs
+- Python programs using conditional and looping statements
+- Python programs using functions
+- Python programs using string and string handling functions
+- Python programs using list
+- Python programs using list comprehension
+- Python programs using tuples and dictionary
+- Python programs to handle exceptions
+- Python programs using modules and packages
+- Python programs to release digital logic gates and digital logic circuits
   
 
 ##  Purpose
