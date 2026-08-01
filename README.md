@@ -36,6 +36,9 @@ This section includes Python programming exercises such as:
 - Python programs using modules and packages
 - Python programs to realize digital logic gates and digital logic circuits
   
+### Semester 3 – Data Structures with Algorithmic Analysis
+This section includes C++ programming exercises such as:
+- simple implementation of dynamic array using OOP in C++
 
 ##  Purpose
 
