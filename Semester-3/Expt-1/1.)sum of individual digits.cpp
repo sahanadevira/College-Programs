@@ -1,6 +1,3 @@
-//Name:
-//Class:
-//Roll No:
 #include<iostream>
 using namespace std;
 class positive{
