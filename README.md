@@ -39,7 +39,7 @@ This section includes Python programming exercises such as:
 ### Semester 3 – Data Structures with Algorithmic Analysis
 This section includes C++ programming exercises such as:
 - simple implementation of dynamic array using OOP in C++
-- Array based list ADT and Linked List ADT
+- List ADT implementaion using Array and Linked List
 - Stack Implementation using Array And Linked List
 - Queue Implementation using Array And Linked List
 - Binary Search Tree Implementation
