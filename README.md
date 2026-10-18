@@ -56,8 +56,10 @@ The purpose of this repository is to:
 ##  Technologies Used
 
 - C Programming
+- C++
 - Python
 - GitHub
+
 
 ##  About Me
 
