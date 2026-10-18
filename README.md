@@ -42,7 +42,7 @@ This section includes C++ programming exercises such as:
 - Array based list ADT and Linked List ADT
 - Stack Implementation using Array And Linked List
 - Queue Implementation using Array And Linked List
-- 
+- Binary Search Tree Implementation
 
 ##  Purpose
 
