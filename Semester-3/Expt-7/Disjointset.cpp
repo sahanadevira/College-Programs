@@ -1,4 +1,4 @@
-//Sahana Devi.R.A(25BEC021) Jose Princy.R(25BEC008)
+
 //Exercise 7
 3: //Implementation of Disjoint-set
 4: //write a C++ program to implement a disjoint set ADT for a ser of numbers
