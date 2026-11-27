@@ -43,6 +43,11 @@ This section includes C++ programming exercises such as:
 - Stack Implementation using Array And Linked List
 - Queue Implementation using Array And Linked List
 - Binary Search Tree Implementation
+- AVL Tree Implementation
+- Disjoint Set Implementation
+- Graph Traversal Implementation
+- Hashing and Hash function Implementation
+- sorting operations using OOP in C++
 
 ##  Purpose
 
