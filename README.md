@@ -49,6 +49,9 @@ This section includes C++ programming exercises such as:
 - Hashing and Hash function Implementation
 - sorting operations using OOP in C++
 
+  Implemented C++ data structures and algorithms using the Chandrayaan-3 mission scenario to manage spacecraft data such as altitude, temperature, fuel levels, flight status, and orbital parameters, focusing on efficient data storage and processing.
+    
+
 ##  Purpose
 
 The purpose of this repository is to:
